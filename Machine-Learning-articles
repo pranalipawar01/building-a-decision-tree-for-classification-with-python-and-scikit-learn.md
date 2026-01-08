@@ -1,2 +1,2 @@
-# building-a-decision-tree-for-classification-with-python-and-scikit-learn.md
+
 This repository contains a Decision Tree classification model implemented using Python and scikit-learn. It demonstrates data preprocessing, model training, evaluation, and visualization of the decision tree in a Jupyter Notebook. The project serves as a beginner-friendly example of decision tree implementation in machine learning.
